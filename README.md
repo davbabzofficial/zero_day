@@ -1,1 +1,1 @@
-working on git bash
+Hello Ubuntu
